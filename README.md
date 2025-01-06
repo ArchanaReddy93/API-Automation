@@ -11,9 +11,8 @@ This automation suite is designed to test the endpoint which returns a single da
 ### Installation
 1. Clone the repository to IntelliJ Idea:
    https://github.com/ArchanaReddy93/API-Automation.git
-2. Navigate to the Project directory within a Terminal/CMD window and execute below command to build the project
-   mvn clean install
-  
+2. Navigate to the Project directory within a Terminal/CMD window and run the command 'mvn clean install' to build the project
+     
 ### Execution and Reports   
 1. In order to execute the automation suite navigate to the Project directory within a Terminal/CMD window and run the command: 'mvn clean test'.
 2. After test execution the reports and Logs are generated in the target/test-output/ directory.
