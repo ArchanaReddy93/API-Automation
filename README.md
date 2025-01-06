@@ -2,11 +2,11 @@
 This automation suite is designed to test the endpoint which returns a single day’s schedule for a channel
 
 ### Prerequisites
-Java - Programming language 
-Maven - Dependency management 
-Cucumber - BDD framework
-RestAssured - API testing library
-IntelliJ Idea - IDE
+1. Java - Programming language 
+2. Maven - Dependency management 
+3. Cucumber - BDD framework
+4. RestAssured - API testing library
+5. IntelliJ Idea - IDE
 
 ### Installation
 1. Clone the repository to IntelliJ Idea:
