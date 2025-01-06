@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features= "src/test/java/features",
         glue= "StepDefinition",
-        tags = "@SheduledAPI",
+    //    tags = "@SheduledAPI",
         monochrome = true,
         plugin = {"pretty","html:target/test-output/CucumberReport.html",
         "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}

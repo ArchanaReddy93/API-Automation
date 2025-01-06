@@ -1,5 +1,5 @@
 @UnScheduledDate
-Feature: To test Single day schedule of a channel API when schedule is not found
+Feature: Single day schedule of a channel API when schedule is not found
 
   @scenario7
   Scenario: verify the status code and properties when schedule is not found for the given date
